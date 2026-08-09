@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <oonal>.*
+*This project has been created as part of the 42 curriculum by oonal.*
 
 # Minitalk
 
